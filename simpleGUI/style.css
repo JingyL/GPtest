@@ -1,0 +1,16 @@
+section {
+  width: 80%;
+  height: 20vh;
+  line-height: 20vh;
+  border: 3px solid black;
+  text-align: center;
+  margin:5% auto 5% auto;
+}
+
+p{
+  line-height: 1.5;
+  display: inline-block;
+  vertical-align: middle;
+  font-family: 'Roboto', sans-serif;
+  font-size: 3vw;
+}
